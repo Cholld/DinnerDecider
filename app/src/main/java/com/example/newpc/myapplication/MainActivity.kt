@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
             else{
                 foodList.add(pick.text.toString())
                 pick.text.clear()
-                selectedFood.text ="Food succefully added to list"
+                selectedFood.text ="Food succefully added to list]]knihbuhiilmjiom"
             }
         }
     }
